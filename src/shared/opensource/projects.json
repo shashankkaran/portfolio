@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "this.Portfolio",
+      "createdAt": "2023-03-06T16:26:54Z",
+      "url": "https://github.com/shashankkaran/Portfolio",
+      "description": "The Complete Customizable Software Developer Portfolio which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "ChessMen Detection ",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/shashankkaran/ChessMen-Detection-And-Automation",
+      "description": "A OpenCV Project : ChessBot that uses Stockfish Engine to predict the best move.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "react-ml-car-price-prediction",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/shashankkaran/ML_Car_Price_Prediction",
+      "description": "🌀 UI mande on ReactJs + Algorithm which predicts car price based on images and input variables using Machine Learning.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Backend Car Price ML Classification Model",
+      "createdAt": "2022-02-26T17:56:07Z",
+      "url": "https://github.com/shashankkaran/Car_Defect_classification_model",
+      "description": "⚙️ Solved using Deep learning in combination with powerful symbolic representations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "react-Crypto App",
+      "createdAt": "2022-01-06T06:36:41Z",
+      "url": "https://github.com/shashankkaran/crypto-gyan",
+      "description": "🚀  High quality, super responsive Crypto App.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "react-google-cloud based file management system",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/shashankkaran/fileManagementSystem",
+      "description": "🚀 Smooth Local Drives based cloud storage UI with functionality",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
